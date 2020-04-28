@@ -7,10 +7,15 @@ The Access Control System has been proposed as the 2019/20 fall semester hardwar
 # Files
 
 AccessCtrl.jar      -> implements the system
+
 AccessCtrl.simul    -> defines the hardware to be used in the system
+
 Simul.properties    -> saves the window and frames position
+
 USB_PORT.properties -> defines the usbport properties required for switching between hardware and simulation
+
 USERS.txt           -> system user database, containing the UIN, PIN, NAME and MSG 
+
 LOG.txt             -> Access Control System log file
 
 # User examples
