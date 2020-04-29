@@ -22,4 +22,4 @@ LOG.txt             -> Access Control System log file
 UIN: 000 to 006     -> PIN: 1111 
 
 # Acknowledgments
-This simulation has been developed by Pedro Miguens Matutino based on the Java Hardware Simulation  developed by Pedro Pereira (palex@cc.isel.ipl.pt). 
+This simulator has been developed by Pedro Miguens Matutino based on the Java Hardware Simulation developed by Pedro Pereira (palex@cc.isel.ipl.pt). 
